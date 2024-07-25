@@ -3,6 +3,7 @@ Das ist die Anforderung der Aufgabe 3 c)
 In der Vorlesung hast Du die grundlegenden Konzepte verschiedener RL-Agenten kennengelernt und ihre Anwendung in populären Umgebungen gesehen. Nun sollst Du das gelernte Wissen als Transferleistung auf andere Problemstellungen übertragen. Die Aufgabe kann entweder **alleine oder in Zweiergruppen** bearbeitet werden.
 Wähle ein Themengebiet für Dein Hands-On-Projekt (z.B. Trading, Autonomes Fahren, Gaming,..) und informiere dich über Umgebungen, die du verwenden kannst. 
 
+
 ✒️ Bearbeite die Aufgaben als Fließtext auf **maximal drei Seiten** (ohne Abbildungen) und Verwende Schrift und Schriftgröße äquivalent zu **Times New Roman 12pt**.\
 📑 Der Projektbericht soll der **äußeren Form** einer wissenschaftlichen Arbeit folgen (Deckblatt, Inhaltsverzeichnis, Abbildungsverzeichnis und Literaturverzeichnis).\
 📤 Dokumentiere Deinen Code in einem dedizierten **Git-Repository** und packe den Link in den Bericht. Stelle sicher, dass das Repository **öffentlich** ist.\
